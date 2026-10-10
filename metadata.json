@@ -1,0 +1,6 @@
+{
+  "name": "BitDigit - 1-Bit Dithered Image to Digits Converter",
+  "description": "Convert images into 1-bit dithered binary digit grids (0s and 1s) with Floyd-Steinberg, Atkinson, and Bayer algorithms, live monospace preview, and instant TXT download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
